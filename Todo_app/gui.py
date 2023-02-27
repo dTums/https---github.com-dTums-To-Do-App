@@ -8,4 +8,5 @@ add_button = sg.Button("Add")
 
 window = sg.Window ('Tums To-Do app',  layout=[[label], [input_box, add_button]])
 window.read()
+
 window.close()

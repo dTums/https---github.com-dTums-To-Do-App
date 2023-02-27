@@ -66,4 +66,4 @@ while True:
     else:
         print("Command is not valid")
    
-print("Goodbye")
+print("Goodbye. Have a nice one")
