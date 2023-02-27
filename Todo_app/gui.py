@@ -15,6 +15,7 @@ window = sg.Window ('Tums To-Do app',
                             [list_box, edit_button]], 
                     font =('Helvetika', 20))
 
+
 while True:
     event, values = window.read()
     print(1, event)
@@ -40,5 +41,5 @@ while True:
             window['todo'].update(value=values['todos'][0])
         case sg.WIN_CLOSED:
             break
-        
+
 window.close()
