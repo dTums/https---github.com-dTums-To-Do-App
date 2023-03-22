@@ -1,9 +1,6 @@
 coffee
 buy stuff
-more stuff
-stuff more
 add tumaini
-add another user
 tumaini
 maena
 have fun

@@ -20,3 +20,15 @@ Todo_app/cointoss.txt
 Todo_app/sides.txt
 Todo_app/bonus/bonus16.py
 Todo_app/bonus/bonus17.py
+Todo_app/bonus/.DS_Store
+Todo_app/bonus/zip_creator.py
+Todo_app/bonus/__pycache__/zip_creator.cpython-310.pyc
+Todo_app/bonus/dest/.DS_Store
+Todo_app/bonus/dest/compressed.zip
+Todo_app/bonus/dest/Todo_app/.DS_Store
+Todo_app/bonus/dest/Todo_app/bonus/bonus15.py
+Todo_app/bonus/dest/Todo_app/bonus/bonus16.py
+Todo_app/coding exercise/converter gui.py
+Todo_app/coding exercise/exefunctions.py
+Todo_app/coding exercise/testing.py
+Todo_app/coding exercise/__pycache__/exefunctions.cpython-310.pyc
