@@ -14,3 +14,11 @@ with col2:
      AWS Certified Cloud Practitioner and have experience with linux, AWS and SQL.
      """
     st.info(content)
+
+
+content2 = """
+Below you can find some of the apps i have built during my python learning process.
+Feel free to contact me for any opportunities to work together.
+"""
+
+st.write(content2)
