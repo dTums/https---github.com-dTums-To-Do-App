@@ -2,6 +2,7 @@ import functions
 import PySimpleGUI as sg
 import time
 import os
+import _tkinter
 
 
 if not os.path.exists("Todo_app/todos.txt"):

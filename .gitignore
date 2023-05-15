@@ -50,3 +50,7 @@ Todo_app/bonus/zip_extractor.py
 Todo_app/Experiments/__pycache__/functions.cpython-310.pyc
 Todo_app/Experiments/ExtractorGui.py
 Todo_app/__pycache__/functions.cpython-311.pyc
+Todo_app/bonus/bonus16makearchive.py
+Todo_app/bonus/bonus17makearchive2.py
+Todo_app/bonus/bonus18archiveextract.py
+Todo_app/bonus/bonus19greyscalecam.py
