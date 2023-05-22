@@ -16,4 +16,4 @@ for filepath in filepaths:
     Invoice_No = filename.split("-")[0]
     pdf.set_font(family="Times", size=16, style="B")
     pdf.cell(w=50, h=8, txt=f"Invoice Number {Invoice_No}")
-    pdf.output(f"PDF_Outputs {filename}.pdf")
+    pdf.output(f"PDF_Outputs/{filename}.pdf")
